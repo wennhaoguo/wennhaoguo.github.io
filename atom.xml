@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-19T11:17:21.734Z</updated>
+  <updated>2022-12-19T11:34:10.064Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,12 +21,12 @@
     <link href="http://example.com/2022/12/19/VIO/"/>
     <id>http://example.com/2022/12/19/VIO/</id>
     <published>2022-12-19T07:50:50.000Z</published>
-    <updated>2022-12-19T11:17:21.734Z</updated>
+    <updated>2022-12-19T11:34:10.064Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://gitee.com/wennhaoguo/imgaebed/raw/master/VIO.png" alt="vio"></p><span id="more"></span>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/12/19/VIO/MyBlog\source_posts\VIO\VIO-image.png"></p><span id="more"></span>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/wennhaoguo/imgaebed/raw/master/VIO.png&quot; alt=&quot;vio&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/12/19/VIO/MyBlog\source_posts\VIO\VIO-image.png&quot;&gt;&lt;/p&gt;</summary>
     
     
     

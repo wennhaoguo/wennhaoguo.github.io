@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-21T03:18:52.344Z</updated>
+  <updated>2022-12-21T05:35:03.256Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>HISTORY OF WESTERN PHILOSOPHY</title>
+    <link href="http://example.com/2022/12/21/History-phi/"/>
+    <id>http://example.com/2022/12/21/History-phi/</id>
+    <published>2022-12-21T05:04:00.000Z</published>
+    <updated>2022-12-21T05:35:03.256Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="西方哲学史分期"><a href="#西方哲学史分期" class="headerlink" title="西方哲学史分期"></a>西方哲学史分期</h1><p>1、公元前6世纪到公元6世纪，古代哲学</p><p>2、公元2世纪到16世纪，中古哲学</p><p>3、17世纪到19世纪，近代哲学。(本课内容主要包括123)</p><p>4、20世纪，现代西方哲学。</p><span id="more"></span><h1 id="什么是哲学"><a href="#什么是哲学" class="headerlink" title="什么是哲学"></a>什么是哲学</h1><h2 id="什么是哲学-哲学不是科学"><a href="#什么是哲学-哲学不是科学" class="headerlink" title="什么是哲学: 哲学不是科学"></a>什么是哲学: 哲学不是科学</h2><p>哲学不具备一门科学知识应普遍性和该具备的最基本特征，普遍性和必然性。 –不是科学，起码不是自然科学。</p><p>科学知识、科学技术是我们认识世界、改造世界的工具和手段。 –是双刃剑，需要指导。</p><p>如果哲学是科学，那同样在应用中需要指导，以树立正确的价值取向，但是这个指导恰恰就是哲学本身。</p><p>2000多年的西方哲学史所做的努力，就是把哲学变成一门科学。</p><p>19世纪初，实现了这个梦想，也终结了这个梦想。</p><p>20世纪以来的现代西方哲学，不再像古典哲学一样，为了让哲学成为科学而努力了。 – 哲学的转向。</p><h2 id="哲学不是使人聪明的学问"><a href="#哲学不是使人聪明的学问" class="headerlink" title="哲学不是使人聪明的学问"></a>哲学不是使人聪明的学问</h2><p>如果哲学问题和理论学说都处在众说纷纭、莫衷一是的处境中，学哲学会让你聪明还是让你糊涂？</p><p>可以为弄懂一个哲学家的思想而高兴，但哲学家的思想是不一致的。– 人生识字糊涂始，你成功的入门了哲学。</p><h2 id="哲学不是讲道理的学问"><a href="#哲学不是讲道理的学问" class="headerlink" title="哲学不是讲道理的学问"></a>哲学不是讲道理的学问</h2><p>哲学往往被看作是为意识形态服务的工具。 –辩证法？变戏法？</p><p>有助于理解哲学“变戏法”现象的假设：</p><blockquote><p>科学知识的对象 -&gt; 现实性<br>哲学的对象 -&gt; 理想性</p></blockquote><p>不同的社会、时代、家庭背景，以及个人思想的差异造成了对理想境界的理解不同。</p><p>比如画鬼，如果画的是一样的，那鬼是真实存在吗？ –每个人画的鬼不可能一样。</p><p>哲学和画鬼一样，无法用经验、事实和试验验证。</p><h2 id="哲学的用处"><a href="#哲学的用处" class="headerlink" title="哲学的用处"></a>哲学的用处</h2><blockquote><p> 哲学不能用来烤面包。 –威廉.詹姆斯</p></blockquote><blockquote><p>所有学科都比哲学有用，但是唯有哲学是自由的学间。因为所有的学科都有前提，都有它服务的对象，但唯独哲学是为了自身而被追求的知识。 –亚里士多德</p></blockquote><p>解决人类社会的精神问题。</p><p>二、智慧的痛苦</p><p>三、问题与对话</p><p>四、西方哲学精神</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;西方哲学史分期&quot;&gt;&lt;a href=&quot;#西方哲学史分期&quot; class=&quot;headerlink&quot; title=&quot;西方哲学史分期&quot;&gt;&lt;/a&gt;西方哲学史分期&lt;/h1&gt;&lt;p&gt;1、公元前6世纪到公元6世纪，古代哲学&lt;/p&gt;
+&lt;p&gt;2、公元2世纪到16世纪，中古哲学&lt;/p&gt;
+&lt;p&gt;3、17世纪到19世纪，近代哲学。(本课内容主要包括123)&lt;/p&gt;
+&lt;p&gt;4、20世纪，现代西方哲学。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Philosophy" scheme="http://example.com/tags/Philosophy/"/>
+    
+    <category term="History" scheme="http://example.com/tags/History/"/>
+    
+  </entry>
+  
+  <entry>
     <title>All about this blog and I</title>
     <link href="http://example.com/2022/12/21/I/"/>
     <id>http://example.com/2022/12/21/I/</id>
     <published>2022-12-21T03:06:13.000Z</published>
-    <updated>2022-12-21T03:18:52.344Z</updated>
+    <updated>2022-12-21T04:44:52.364Z</updated>
     
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="e784bc90e83758d03e3f4fbf6d2f00b8c2c691ad4778f93366a5c7bb17950779">265bc57af770bf3fc206312dde749e113fab809ef2f7a4f975c92f7b46042862fbad6c6a0b4e2c610657e2b26af9a14d34f903ec3a2300ef5b28f3466df345b77801fc09c62713952a46142b26122ef1ee5d87228063b35698752894beade4678a8459dee6cf45c4b23c76b56f5fa365ca81749204194e304ef8b800f4055602bdc3607e7933a3a8ae3aad664a56f543329c55f9c3f571d861648836079d6ffe4d5c3f2ba71200563455f19499af1b80650b7c4cbe19c7bf63422d07a3a5f8ab509fa287a341daf22b8ca871b79f05343c717a4f93bddb4720648dfd12b0f5caa84fc46bfada5844d1001c559c170e7bd35d27b967390aabd5c0b3a7e499c783ac00fd52c3bb9981fd651c474a170ce55837b871d6241d4eece125006fe128c38d253b89c39244b6a2f3ccbb341e4c81c0c2568b901b154171eafe4f909ac1193b0a8822d8fce7133d5c467336d898ffb23986122dc18bd74e2bcaab316e3a6809dfbd1fda356fa20048e5afa71949245239a64f334b0d3b061b046b859b6fd4c9b69b534e7e4bee502d320dde2c2159cf9714c3f6c7a732174124d04d2b7a609b2db84cbbd6dd0abff7bfb19fbe5bc831e95328f0e5eac0ecb010c6e2f5fcb746a67d5c21ec65ef5ab10ddc7e82713c0c9621dd9c7a2ede26c1ab96f70cd74724f9d8097dfb36aed1dc0da63f30935fa9da15a101c7fba672c7deccc8d738214066357fb33ecb6af9ec1a5318b8faafefe6a10ebe1f1cf91852889b7c09c8955beefe2c09749912b9d510cc91a758dfefb543dde41a4541b783747622bfcbc70dcfcdede4223c369e8ce4704cf01bb4</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Please input the password!</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="b0b4d778c9b8d3c7272f43e9a62693aeae116a55153a8242e37613cd94d44557">265bc57af770bf3fc206312dde749e113fab809ef2f7a4f975c92f7b46042862fbad6c6a0b4e2c610657e2b26af9a14d34f903ec3a2300ef5b28f3466df345b77801fc09c62713952a46142b26122ef1ee5d87228063b35698752894beade4678a8459dee6cf45c4b23c76b56f5fa365ca81749204194e304ef8b800f4055602bdc3607e7933a3a8ae3aad664a56f543329c55f9c3f571d861648836079d6ffe4d5c3f2ba71200563455f19499af1b80650b7c4cbe19c7bf63422d07a3a5f8ab509fa287a341daf22b8ca871b79f05343c717a4f93bddb4720648dfd12b0f5caa84fc46bfada5844d1001c559c170e7b1e64700dff6fde334395440add663180f508668eb4caa59c985c0257aa21732edf915a71e817362bf07222c5577b238defb724603afd58fc321cc74faad057a335bb7517b7d6665a27445c15256dcd2dc791c01621163dc1e4334d431b1da509a75e492938a8dd1da9721f815febc1b6848810eaf70d10c9d7ee2b9c69504d736f2203caa57819c651731e647e7bce1fbef8fe1d3c333fd5365a85bbccab63800d64d2b06388ca26fb0496bc143b2ece29c0a4449f97fe2279d24ba30f194da3391beb6f6deefb104c60479ad29ff13efc71a5ca6e40fb645dbb38cde7c200fc6cb4c4e17c51c6728df031a49fc8dd30d81fca1998fb3a3bd04a9905b512105d750e6a97c5f2c353b15f6f1274bdd12be0261d71a46be9d80b999faef9b7207d66ac6091cde9a9135e093c61f3df74882cf5b34ca2ac7c6c03bfba9e1d7ea0abd8fcfd8c964be326a52f9615f5a6b24e7b737fc5ad2e8f15979023abcbb2ab59</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Please input the password!</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
     
     
     <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>

@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-23T06:36:05.114Z</updated>
+  <updated>2022-12-24T03:28:53.564Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Plato’s Symposium</title>
+    <link href="http://example.com/2022/12/24/love/"/>
+    <id>http://example.com/2022/12/24/love/</id>
+    <published>2022-12-24T03:17:54.000Z</published>
+    <updated>2022-12-24T03:28:53.564Z</updated>
+    
+    <content type="html"><![CDATA[<p>”如果爱只是一种感觉，那么当它遇到挑战，这种感觉很快就会消除，因为我们很容易在不同的人身上获得这种感觉。所以移情别恋最经常的说辞就是”我没有感觉了“，但真正的爱是一种责任，是一种彼此的牺牲和彼此的成就。“</p><p>”顺着感觉走的爱情，在某种程度上只是一种自恋的爱，一种自我衷心的爱，一种放纵的爱，当你在别人身上发现了你爱慕的品质，你觉得你爱上他，其实你爱上的只是自己。当这种东西消失之后，爱往往也随之消失。你觉得对方变了，但也许变得是你自己。“</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;”如果爱只是一种感觉，那么当它遇到挑战，这种感觉很快就会消除，因为我们很容易在不同的人身上获得这种感觉。所以移情别恋最经常的说辞就是”我没有感觉了“，但真正的爱是一种责任，是一种彼此的牺牲和彼此的成就。“&lt;/p&gt;
+&lt;p&gt;”顺着感觉走的爱情，在某种程度上只是一种自恋的爱，一种</summary>
+      
+    
+    
+    
+    <category term="Philosophy" scheme="http://example.com/categories/Philosophy/"/>
+    
+    
+    <category term="Philosophy" scheme="http://example.com/tags/Philosophy/"/>
+    
+    <category term="view of love" scheme="http://example.com/tags/view-of-love/"/>
+    
+  </entry>
   
   <entry>
     <title>HISTORY OF WESTERN PHILOSOPHY</title>

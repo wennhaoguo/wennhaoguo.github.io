@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-24T14:22:34.092Z</updated>
+  <updated>2022-12-25T13:44:36.874Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>daily</title>
+    <link href="http://example.com/2022/12/25/daily/"/>
+    <id>http://example.com/2022/12/25/daily/</id>
+    <published>2022-12-25T13:40:09.000Z</published>
+    <updated>2022-12-25T13:44:36.874Z</updated>
+    
+    <content type="html"><![CDATA[<p>I will keep a daily log of my life here.</p><span id="more"></span> <h1 id="12-25-关于抽象和具体的爱："><a href="#12-25-关于抽象和具体的爱：" class="headerlink" title="12.25 关于抽象和具体的爱："></a>12.25 关于抽象和具体的爱：</h1><p><img src="/2022/12/25/daily/image-20221225214210594.png" alt="image-20221225214210594"></p><p><img src="/2022/12/25/daily/image-20221225214251766.png" alt="image-20221225214251766"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;I will keep a daily log of my life here.&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Plato&#39;s Symposium</title>
